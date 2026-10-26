@@ -1,7 +1,5 @@
 import streamlit as st
-import py_simple as ps
 import requests
-import time
 
 
 ENDPOINT = "https://api.adviceslip.com/advice"
